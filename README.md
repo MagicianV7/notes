@@ -1,1 +1,1 @@
-{'ts_split_join' : 'off'}
+{'ts_split_join' : 'on'}
